@@ -20,3 +20,7 @@ ssr://c3NyLnpodWppY24yLm5ldDoyMjY2NjphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2
 SS链接：
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@141.101.114.185:443/?plugin=v2ray-plugin%3btls%3bhost%3dss2.v2rayfree1.xyz%3bpath%3d%2f4257c86b#www.dongtaiwang.com+%e6%b4%9b%e6%9d%89%e7%9f%b62
+
+clash订阅链接：https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
+
+v2ray订阅链接：https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
